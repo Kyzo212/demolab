@@ -1,1 +1,1 @@
-# GETTING READY FOR PYTHON 2
+# Hello tanga
